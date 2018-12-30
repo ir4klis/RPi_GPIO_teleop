@@ -1,3 +1,3 @@
 ## RPi_GPIO_teleop
 
-### Raspberry Pi ROS GPIO teleoperation driver.
+### Raspberry Pi ROS GPIO pins teleoperation driver.
