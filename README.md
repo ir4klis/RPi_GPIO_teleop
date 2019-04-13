@@ -2,4 +2,4 @@
 
 ### Raspberry Pi GPIO pins teleoperation driver for ROS.
 
-### _If you stumbled upon this and want to know more, wiki.ros_
+### If you stumbled upon this and want to know more, [wiki.ros](http://wiki.ros.org)
